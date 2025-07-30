@@ -1,0 +1,8 @@
+# Python file -> luôn dùng LF
+*.py text eol=lf
+
+# CSV file -> luôn dùng LF
+*.csv text eol=lf
+
+# Markdown/README -> luôn dùng LF
+*.md text eol=lf
